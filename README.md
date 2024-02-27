@@ -1,5 +1,5 @@
 # Alura Books
-Projeto feito durante o curso de responsividade com mobile-first da Alura
+Projeto feito durante o curso de responsividade com mobile-first da Alura para o programa Desenvolve do Grupo Boticário.
 
 <p align="center"> <img src="https://imgur.com/Hy6t2jH.png" alt="HTML e CSS: responsividade com mobile-first"> </p>
 
